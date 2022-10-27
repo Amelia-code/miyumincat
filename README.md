@@ -16,7 +16,7 @@ I-am-ysy3012000@github
 -------------------------
 💻 I am a self taught Data Scientist 
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
+🔭 Working on python & Machine Learning
 🌱 Learning about python,mysql,java,js
 🌟 Main languages: Python,mySql 
 💖 In a complicated relationship with Neural Networks
