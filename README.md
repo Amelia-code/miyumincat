@@ -14,7 +14,7 @@ Hi, I'm soyoung
 ```
 I-am-ysy3012000@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+💻 I am a self taught Data Scientist 
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about python,mysql,java,js
