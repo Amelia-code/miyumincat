@@ -75,9 +75,9 @@ I-am-miyu@github
 
 <h1>GitHub Stats 📊</h1>
  
-![Mei's github stats](https://github-readme-stats.vercel.app/api?username=ysy3012000&show_icons=true&theme=dracula) 
+![Mei's github stats](https://github-readme-stats.vercel.app/api?username=Miyu&show_icons=true&theme=dracula) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysy3012000&theme=dracula)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysy3012000&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miyu&layout=compact&theme=onedark)
 
 <hr>
 
