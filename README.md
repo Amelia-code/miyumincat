@@ -10,6 +10,7 @@ Hi, I'm Miyu
 <hr>
 
 ```
+
 I-am-miyu@github
 -------------------------
 💻 I am a self taught Data Scientist 
